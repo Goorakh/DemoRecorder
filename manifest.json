@@ -1,0 +1,13 @@
+﻿{
+	"name": "DemoRecorder",
+	"authorName": "Gorakh",
+	"displayName": "Demo Recorder",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/*",
+	"description": "Allows recording and replaying of runs",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2100",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"RiskofThunder-R2API_Core-5.0.10"
+	]
+}
