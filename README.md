@@ -1,3 +1,3 @@
-# [MOD TITLE]
+# Demo Recorder
 
-ablablablabl
+Allows recording and playing of run replays
